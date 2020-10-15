@@ -1,0 +1,16 @@
+.title-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.flex-box-container-1 {
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.flex-box-container-1 div {
+    padding: 10 px;
+    align-items: center;
+}
